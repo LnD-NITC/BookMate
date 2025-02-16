@@ -8,7 +8,7 @@ const AppOffline = () => {
 					Bookmate is Offline
 				</h1>
 				<h1 className="text-4xl font-bold text-secondary font-poppins mb-6">
-					Contact arunnats2004@gmail.com
+					Contact lnd@nitc.ac.in
 				</h1>
 			</div>
 		</>
